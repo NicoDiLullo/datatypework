@@ -1,6 +1,6 @@
 """
 This file contains a script that is meant to simulate the effect of storing data
-in the FP16 format. Data is loaded (from float64), and then cast to float 32,
+in the FP32 format. Data is loaded (from float64), and then cast to float 32,
 from whence the model is then trained as normal.
 
 N DiLullo and M LeBlanc, 2026
