@@ -1,7 +1,7 @@
 """
 This file contains a script that is meant to simulate the effect of storing data
-in the FP16 format. Data is loaded (from float64), and all preprocessing and training
-is done in this format.
+in the FP64 format (i.e., a baseline). Data is loaded (from float64), and all preprocessing 
+and training are done in this format.
 
 N DiLullo and M LeBlanc, 2026
 """
