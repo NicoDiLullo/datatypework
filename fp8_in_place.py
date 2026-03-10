@@ -185,4 +185,4 @@ plt.ylim(0, 1)
 # make legend and show plot
 plt.legend(loc='lower left', frameon=False)
 #plt.show()
-plt.savefig('roc_fp8__inplace_final.png.png')
+plt.savefig('roc_fp8__inplace_final.png')
